@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SimpleCrypt</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_settings">Settings</string>
+    <string name="active_identity">Active: %s</string>
+    <string name="hw_secured">🛡️ Hardware Secured (TEE/SE)</string>
+    <string name="sw_emulated">⚠️ Software Emulated</string>
+    <string name="encrypt_title">Encrypt Message</string>
+    <string name="decrypt_title">Decrypt Message</string>
+    <string name="friend_name_label">Friend Name</string>
+    <string name="message_content_label">Message Content</string>
+    <string name="encrypt_btn">Encrypt &amp; Copy JSON</string>
+    <string name="decrypt_btn">Decrypt</string>
+    <string name="json_input_label">Paste JSON Message</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="add_friend_hint">Paste Friend JSON</string>
+    <string name="settings_title">System Settings</string>
+    <string name="identities_section">My Identities</string>
+    <string name="new_identity_title">New Identity</string>
+    <string name="identity_name_hint">Enter identity name</string>
+    <string name="use_tee_label">Use Hardware TEE Security</string>
+    <string name="create_btn">Create</string>
+    <string name="import_cert_btn">Import Software Certificate</string>
+    <string name="export_data_btn">Export All Data (Backup)</string>
+    <string name="switch_btn">Switch</string>
+    <string name="new_key_btn">New Key</string>
+    <string name="view_history">View History</string>
+    <string name="hide_history">Hide History</string>
+    <string name="copy_json">Copy JSON</string>
+    <string name="export_cert">Export Cert</string>
+    <string name="processing">Processing...</string>
+    <string name="wait_msg">Handling secure operation, please wait</string>
+    <string name="decrypt_failed">Decryption Failed: %s</string>
+    <string name="recipient_mismatch">Error: Recipient mismatch</string>
+    <string name="from_info">From: %1$s | Using key: V%2$d</string>
+</resources>
