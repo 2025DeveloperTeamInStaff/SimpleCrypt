@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">极简加密</string>
+    <string name="nav_messages">消息</string>
+    <string name="nav_friends">联系人</string>
+    <string name="nav_settings">设置</string>
+    <string name="active_identity">当前身份: %s</string>
+    <string name="hw_secured">🛡️ 硬件安全加密 (TEE/SE)</string>
+    <string name="sw_emulated">⚠️ 软件模拟加密</string>
+    <string name="encrypt_title">加密消息</string>
+    <string name="decrypt_title">解密消息</string>
+    <string name="friend_name_label">好友名称</string>
+    <string name="message_content_label">消息内容</string>
+    <string name="encrypt_btn">加密并复制 JSON</string>
+    <string name="decrypt_btn">解密</string>
+    <string name="json_input_label">粘贴 JSON 消息</string>
+    <string name="contacts_title">联系人列表</string>
+    <string name="add_friend_hint">粘贴好友公钥 JSON</string>
+    <string name="settings_title">系统设置</string>
+    <string name="identities_section">我的身份管理</string>
+    <string name="new_identity_title">创建新身份</string>
+    <string name="identity_name_hint">输入身份名称 (如: 张三)</string>
+    <string name="use_tee_label">使用硬件 TEE 安全存储</string>
+    <string name="create_btn">创建身份</string>
+    <string name="import_cert_btn">导入软件证书</string>
+    <string name="export_data_btn">导出全部数据 (备份)</string>
+    <string name="switch_btn">切换</string>
+    <string name="new_key_btn">生成新密钥</string>
+    <string name="view_history">查看历史密钥</string>
+    <string name="hide_history">隐藏历史记录</string>
+    <string name="copy_json">复制公钥 JSON</string>
+    <string name="export_cert">导出证书</string>
+    <string name="processing">正在安全处理...</string>
+    <string name="wait_msg">正在处理密钥操作，请稍候</string>
+    <string name="decrypt_failed">解密失败: %s</string>
+    <string name="recipient_mismatch">错误: 接收人 ID 不匹配</string>
+    <string name="from_info">来自: %1$s | 使用您的密钥版本: V%2$d</string>
+</resources>
